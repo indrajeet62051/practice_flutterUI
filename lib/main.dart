@@ -30,7 +30,6 @@ class screenname extends StatelessWidget{
         width: 500,
         height: 500,
         color: Colors.orange,
-        child: Text("Hellow"),
       ),
     );
 
