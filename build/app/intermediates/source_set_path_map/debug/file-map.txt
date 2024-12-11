@@ -1,0 +1,12 @@
+com.example.learn_container.app-jetified-window-1.0.0-beta04-0 C:\Users\Nikhil\.gradle\caches\transforms-3\05afbc50c9d5c51966c5374f153362bd\transformed\jetified-window-1.0.0-beta04\res
+com.example.learn_container.app-core-1.6.0-1 C:\Users\Nikhil\.gradle\caches\transforms-3\101e8b389cb95798a7d32ea8dbc0126f\transformed\core-1.6.0\res
+com.example.learn_container.app-jetified-window-java-1.0.0-beta04-2 C:\Users\Nikhil\.gradle\caches\transforms-3\a2d5f98bb763a24d25b760f2ecad7a7e\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.learn_container.app-jetified-annotation-experimental-1.1.0-3 C:\Users\Nikhil\.gradle\caches\transforms-3\ae2073573988c210f76aee6cffb0c971\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.learn_container.app-debug-4 C:\Users\Nikhil\AndroidStudioProjects\learn_container\android\app\src\debug\res
+com.example.learn_container.app-main-5 C:\Users\Nikhil\AndroidStudioProjects\learn_container\android\app\src\main\res
+com.example.learn_container.app-pngs-6 C:\Users\Nikhil\AndroidStudioProjects\learn_container\build\app\generated\res\pngs\debug
+com.example.learn_container.app-resValues-7 C:\Users\Nikhil\AndroidStudioProjects\learn_container\build\app\generated\res\resValues\debug
+com.example.learn_container.app-rs-8 C:\Users\Nikhil\AndroidStudioProjects\learn_container\build\app\generated\res\rs\debug
+com.example.learn_container.app-mergeDebugResources-9 C:\Users\Nikhil\AndroidStudioProjects\learn_container\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.learn_container.app-mergeDebugResources-10 C:\Users\Nikhil\AndroidStudioProjects\learn_container\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.learn_container.app-merged_res-11 C:\Users\Nikhil\AndroidStudioProjects\learn_container\build\app\intermediates\merged_res\debug
