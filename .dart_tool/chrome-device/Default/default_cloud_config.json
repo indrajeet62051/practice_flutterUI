@@ -70,13 +70,23 @@
    }, {
       "appName": "reading_view",
       "data": {
-         "blockList": [ "gisdvl-jrvoice2.jreast.co.jp", "jrvoice2.jreast.co.jp", "www.marriott.com", "www.eki-net.com", "service10.wanbishi.ne.jp", "eum-coral-saas.instana.io", "demo10.wanbishi.ne.jp", "eum.instana.io" ],
+         "blockList": [ "gisdvl-jrvoice2.jreast.co.jp", "jrvoice2.jreast.co.jp", "www.marriott.com", "www.eki-net.com", "service10.wanbishi.ne.jp", "eum-coral-saas.instana.io", "demo10.wanbishi.ne.jp", "eum.instana.io", "www.ford.com", "login.ford.com" ],
          "textLengthThreshold": 40,
          "whiteList": [ "mip.shengxuxu.com" ]
       },
       "effectStrategy": "launch",
       "type": "normal",
-      "version": "1006"
+      "version": "1007"
+   }, {
+      "appId": "idcfwggqzmnqmjrrncznqaggwhcxbjof",
+      "appName": "beta_enrollment",
+      "data": {
+         "enable": true
+      },
+      "effectStrategy": "launch",
+      "instanceId": "bzatjpaqglyyxiaqtufvrwcynulkjazt",
+      "type": "normal",
+      "version": "1001"
    }, {
       "appId": "e54758ece3475afa1b2a65wsefd0db36",
       "appName": "ads_block",
@@ -321,12 +331,12 @@
    }, {
       "appName": "UAShimmingiOS",
       "data": {
-         "chromelist": [ "identitypass.microsoft.com" ],
+         "chromelist": [ "identitypass.microsoft.com", "wallet.pnb.org*" ],
          "safarilist": [  ]
       },
       "effectStrategy": "realtime",
       "type": "builtin",
-      "version": "1001"
+      "version": "1003"
    } ],
-   "version": "202411270001"
+   "version": "202412130001"
 }
