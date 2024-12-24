@@ -27,9 +27,9 @@
     },
     {
       "name": "collection",
-      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.18.0",
+      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.4"
     },
     {
       "name": "cupertino_icons",
@@ -47,7 +47,7 @@
       "name": "flutter",
       "rootUri": "file:///C:/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "flutter_lints",
@@ -59,25 +59,43 @@
       "name": "flutter_test",
       "rootUri": "file:///C:/flutter/packages/flutter_test",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.20.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
     },
     {
       "name": "leak_tracker",
-      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-10.0.0",
+      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-10.0.7",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     },
     {
       "name": "leak_tracker_flutter_testing",
-      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_flutter_testing-2.0.1",
+      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.8",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     },
     {
       "name": "leak_tracker_testing",
-      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_testing-2.0.1",
+      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_testing-3.0.1",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     },
     {
       "name": "lints",
@@ -93,13 +111,13 @@
     },
     {
       "name": "material_color_utilities",
-      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.8.0",
+      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.11.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "meta",
-      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.11.0",
+      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.15.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -123,9 +141,9 @@
     },
     {
       "name": "stack_trace",
-      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/stack_trace-1.11.1",
+      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/stack_trace-1.12.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.4"
     },
     {
       "name": "stream_channel",
@@ -135,9 +153,9 @@
     },
     {
       "name": "string_scanner",
-      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/string_scanner-1.2.0",
+      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/string_scanner-1.3.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.1"
     },
     {
       "name": "term_glyph",
@@ -147,9 +165,15 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.6.1",
+      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.7.3",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
     },
     {
       "name": "vector_math",
@@ -159,9 +183,15 @@
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-13.0.0",
+      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-14.3.0",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "web",
+      "rootUri": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache/hosted/pub.dev/web-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
     },
     {
       "name": "learn_container",
@@ -170,7 +200,10 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-12-11T13:38:53.191033Z",
+  "generated": "2024-12-21T08:40:46.394869Z",
   "generator": "pub",
-  "generatorVersion": "3.3.0"
+  "generatorVersion": "3.6.0",
+  "flutterRoot": "file:///C:/flutter",
+  "flutterVersion": "3.27.1",
+  "pubCache": "file:///C:/Users/Nikhil/AppData/Local/Pub/Cache"
 }
